@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\user\desktop\roomba\opencvtest\source.cpp(13): warning C4005: 'PI': macro redefinition
+  c:\users\user\desktop\roomba\opencvtest\utilities.h(13): note: see previous definition of 'PI'
+c:\users\user\desktop\roomba\opencvtest\source.cpp(265): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(270): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(371): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(375): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(379): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(383): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(691): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(780): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(784): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(788): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(792): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(849): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(853): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(857): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\roomba\opencvtest\source.cpp(861): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  opencvTest.vcxproj -> C:\Users\User\Desktop\roomba\x64\Debug\opencvTest.exe
